@@ -1,15 +1,7 @@
 body {
 	color: #ebefb8;
-	background-color: #ebefb8;
-}
-
-.container {
-	max-width: 600px;
-	width: 70%;
-	text-align: center;
-	margin: 50px auto;
-	padding: 80px 50px;
-	background-color: #1c4a93
+	background: radial-gradient(circle, yellow, green);
+	display: float;
 }
 
 h1 {
